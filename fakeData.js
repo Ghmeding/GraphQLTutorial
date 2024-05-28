@@ -59,6 +59,14 @@ const UserList = [
       age: 5,
       nationality: "CHILE",
     },
+    {
+      id: 6,
+      name: "Neo",
+      username: "Neo",
+      age: 22,
+      nationality: "USA",
+    },
+    
   ];
   
   const MovieList = [
